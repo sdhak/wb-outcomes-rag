@@ -1,4 +1,4 @@
-# Development Policy Intelligence — A RAG Pipeline for Project Outcomes Analysis
+# Development Policy Intelligence 
 
 ### A RAG Application for Development Outcomes Analysis
 

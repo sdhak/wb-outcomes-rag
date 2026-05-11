@@ -1,6 +1,6 @@
 # Development Policy Intelligence 
 
-### A RAG Application for Development Outcomes Analysis
+### A RAG Pipeline for Development Outcomes Analysis
 
 ## Overview
 This project builds a Retrieval-Augmented Generation (RAG) 
